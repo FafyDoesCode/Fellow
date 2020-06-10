@@ -1,10 +1,9 @@
-<!DOCTYPE>
+<!DOCTYPE html>
+
 # Fellow
 My Desire to be a Fellow for 2020!
 <html>
-  <head>
-<title><i><b>Assignment 8!!!</b></i></title>
-  </head>
+ 
   <body>
   <h1>I'm interested in...</h1>	
   <img src= "https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science.jpg" alt="Image from Google of the Breakdow on Data Science" width="600" height="400">	  
